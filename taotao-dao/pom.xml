@@ -23,6 +23,11 @@
             <groupId>com.taotao</groupId>
             <artifactId>taotao-pojo</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>com.taotao</groupId>
+            <artifactId>taotao-mapper</artifactId>
+        </dependency>
         <!-- Mybatis -->
         <dependency>
             <groupId>org.mybatis</groupId>
@@ -51,5 +56,6 @@
             <groupId>com.alibaba</groupId>
             <artifactId>druid</artifactId>
         </dependency>
+
     </dependencies>
 </project>
